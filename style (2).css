@@ -1,0 +1,42 @@
+body {
+  background: white;
+}
+i {
+  color: black;
+  text-align: center;
+    height:150px;
+    width:150px;
+    padding:50px;
+    border-radius:20px;
+    background-color:mediumturquoise;
+    border:dotted 2px darkblue;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  color:darkslateblue;
+  text-shadow: 5px 5px 8px;
+}
+h1 {
+  font-weight: bold;
+}
+th{
+  border: solid 2px;
+}
+tr:hover{
+  background-color:black;
+  color:white;
+}
+table, th, td{
+  border: solid 2px black;
+}
+th{
+  background-color: #1fc74c;
+  width: 400px;
+  height: 65px
+}
+td{
+  text-align: center;
+}
+p{
+  text-align: center
+}
